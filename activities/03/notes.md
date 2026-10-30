@@ -33,6 +33,7 @@ Hello po ma'am I apologize po kasi di po ma render yung ipynb. Ilang beses ko na
 Option 1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WhaleRed/student-csc173-repository/blob/main/activities/03/Jag_CSC173_Lecture03_Deep_Computer_Vision_Demo.ipynb)
 
+
 Option 2
 Step 1: go to nbviewer.org
 Step 2: paste repo path link : ``https://github.com/WhaleRed/student-csc173-repository/blob/main/activities/03/Jag_CSC173_Lecture03_Deep_Computer_Vision_Demo.ipynb``
